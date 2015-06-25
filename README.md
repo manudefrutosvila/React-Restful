@@ -59,5 +59,7 @@ $ gulp build
 ### How to Run
 
 ```shell
-$ gulpfile
+$ gulp
 ```
+
+Finally, open http://localhost:8080 in your browser. The Gulp task will be watching the web application for changes and automatically reloading the browser thanks to LiveReload.
