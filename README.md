@@ -4,8 +4,8 @@ API Rest with React.js
 
 
 ### Documentation
-link "sample app with React.js + ES6" -> https://carlosazaustre.es/blog/ejemplo-de-aplicacion-con-react-js-en-ecmascript-6/
-link "API Rest + React.js + ES6" -> https://carlosazaustre.es/blog/consumiendo-un-api-rest-desde-react-js-con-ecmascript6/
+- link "sample app with React.js + ES6" -> https://carlosazaustre.es/blog/ejemplo-de-aplicacion-con-react-js-en-ecmascript-6/
+- link "API Rest + React.js + ES6" -> https://carlosazaustre.es/blog/consumiendo-un-api-rest-desde-react-js-con-ecmascript6/
 
 ### Directory Layout
 
@@ -56,5 +56,5 @@ $ gulp build
 ### How to Run
 
 ```shell
-$ gulp
+$ gulpfile
 ```
