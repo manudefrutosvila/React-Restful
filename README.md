@@ -4,6 +4,9 @@ API Rest with React.js
 
 
 ### Documentation
+
+Example based on an article by Carlos Azaustre. In the following links you can find:
+
 - link "sample app with React.js + ES6" -> https://carlosazaustre.es/blog/ejemplo-de-aplicacion-con-react-js-en-ecmascript-6/
 - link "API Rest + React.js + ES6" -> https://carlosazaustre.es/blog/consumiendo-un-api-rest-desde-react-js-con-ecmascript6/
 
