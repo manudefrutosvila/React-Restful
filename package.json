@@ -1,0 +1,29 @@
+{
+  "name": "React-Restful",
+  "private": false,
+  "version": "0.0.1",
+  "description": "React.js + ES6 + API Rest",
+  "repository": "https://github.com/dMartinezAyuso/React-Restful",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10",
+    "npm": ">= 2.1"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-webserver": "^0.9.1",
+    "gulp-stylus": "^2.0.5",
+    "browserify": "^10.2.4",
+    "babelify": "^6.1.2",
+    "vinyl-source-stream": "^1.1.0",
+    "gulp-minify-css": "^1.2.0",
+    "nib": "^1.1.0"
+  },
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  }
+}
